@@ -1,4 +1,4 @@
-
+% 384 Project Part 3 
 %Initial Conditions 
 beta = 0.3;
 gamma = 0.1;
